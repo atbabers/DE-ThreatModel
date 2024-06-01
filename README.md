@@ -26,7 +26,7 @@ Like many facets of cybersecurity, there are multiple issues in Detection Engine
 > We needed a systematic way to identify, sort, and handle threats. This will make it easier for us to spot dangers, boost our effectiveness, improve our security, work better together, and stay ready for evolving threats. - Asante Babers
 
 
-**The Solution?** **A threat modeling framework for detection engineering.**.
+**The Solution?** **A threat modeling framework for detection engineering.**
 
 The roots of this framework stem from the one thing that detection engineers must have to operate: logs. By identifying and classifying log sources, we can outline potential attacks that an asset might be exposed to in a shareable model.
 
