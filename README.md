@@ -1,4 +1,4 @@
-# Introducing Authac: The Art of Threat Modeling for Detection Engineering
+# The Art of Threat Modeling for Detection Engineering
 
 # **Initial Motivations**
 
@@ -26,7 +26,7 @@ Like many facets of cybersecurity, there are multiple issues in Detection Engine
 > We needed a systematic way to identify, sort, and handle threats. This will make it easier for us to spot dangers, boost our effectiveness, improve our security, work better together, and stay ready for evolving threats. - Asante Babers
 
 
-**The Solution?** **Authac**.
+**The Solution?** **A Detection Engineering Threat Modeling Guide**.
 
 The roots of this framework stem from the one thing that detection engineers must have to operate: logs. By identifying and classifying log sources, we can outline potential attacks that an asset might be exposed to in a shareable model.
 
@@ -34,7 +34,7 @@ The roots of this framework stem from the one thing that detection engineers mus
 
 # **Summary**
 
-Authac is a ten-step iterative process for threat modeling focused on log sources. I crafted this approach to aid detection engineers in identifying key data and sparking new ideas for detections. Unlike many other frameworks that use acronyms for their steps, the term “Authac” ("pronounced": aw-thak) is not an acronym. Instead, it’s a condensed version of a guiding principle for detection engineers: **to authenticate and authorize every action occurring within our organization.**
+This is a ten-step iterative process for threat modeling focused on log sources. I crafted this approach to aid detection engineers in identifying key data and sparking new ideas for detections.
 
 ---
 
